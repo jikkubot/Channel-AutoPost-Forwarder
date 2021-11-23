@@ -35,5 +35,5 @@ Visit [@TeamCyphers](https://t.me/TeamCyphers) for help.
 > [xditya](https://github.com/xditya), me.   
 > [@ettan_fan](https://t.me/ettan_fan), for the whole idea.   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jikkubot/ChannelAutoPost/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jikkubot/Channel-AutoPost-Forwarder/)
 
